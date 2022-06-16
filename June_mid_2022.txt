@@ -5,4 +5,5 @@ Task that I've completed:
 2) learnt python (Data Structures, OOPs, conditionals, loops, lamda functions, Generators)
  -Basically enough that I feel comfortable enough to explore on my own. (https://www.udemy.com/course/100-days-of-code/)
 
-3)started learning Git and Github (Resource would be added at task completion)
+3)started learning Git and Github (June - 17) (Resource would be added at task completion)
+
