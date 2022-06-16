@@ -9,7 +9,7 @@ Task that I've completed:
 
 1) learnt linux commandline (https://learnpythonthehardway.org/python3/appendixa.html)
 2) learnt python (Data Structures, OOPs, conditionals, loops, lamda functions, Generators)
- -Basically enough that I feel comfortable enough to explore on my own.
+ -Basically enough that I feel comfortable enough to explore on my own. (https://www.udemy.com/course/100-days-of-code/)
  
  
  
