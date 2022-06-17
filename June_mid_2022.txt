@@ -8,6 +8,3 @@ Task that I've completed:
 3)started learning Git and Github (Resource would be added at task completion) June 17.
 
 4)Matplotlib
-
-5)Open CV
-
